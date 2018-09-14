@@ -1,0 +1,2 @@
+module IMX6Camera
+plugin imx6camera
